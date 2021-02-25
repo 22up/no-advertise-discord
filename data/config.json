@@ -1,0 +1,10 @@
+{
+    "token": "honeypot token",
+    "channel": "log channel id",
+    "guilds": [
+        ""
+    ],
+    "admins": [
+        "people to ignore"
+    ]
+}
